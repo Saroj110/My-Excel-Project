@@ -13,7 +13,7 @@ This Excel-based sales dashboard provides a **comprehensive analysis** of sales 
 ---
 
 ## 🖥️ Dashboard Preview  
-![Sales Dashboard 2024](https://github.com/Saroj110/My-Excel-Project)  
+![https://github.com/Saroj110/My-Excel-Project/blob/main/Sale%20Dashboaed%20In%20Excel..xlsx](https://github.com/Saroj110/My-Excel-Project/blob/main/Sale%20Dashboaed%20In%20Excel..xlsx)  
 
 ---
 
